@@ -36,7 +36,7 @@ figure; pattern(ant,433e6);
 
 % mesmo padrão mas em visão de azimuth
 
-figure; patternElevation(ant,433e6);
+figure; patternAzimuth(ant,433e6);
 
 % impedância e reatância por frequência
 
